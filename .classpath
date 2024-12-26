@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SendFile-Client/src"/>
+	<classpathentry kind="src" path="SendFile-Server/src"/>
+	<classpathentry kind="lib" path="Client.jar"/>
+	<classpathentry kind="lib" path="Server.jar"/>
+	<classpathentry kind="output" path="SendFile-Client/build/classes"/>
+</classpath>
